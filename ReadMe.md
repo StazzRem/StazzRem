@@ -1,5 +1,9 @@
-# 💫 About Me:
-👩‍💻 Junior Front-end Developer 📍 Brit relocated to Netherlands 🌍 Currently learning React ⚛ Moving on to C++, C# and Python 🐍 
+# Hello! I'm Stazz! 👋
+
+✨ I'm currently working on learning React ⚛
+✨ I'm learning with help from @MattDelac at https://SheCodes.io 👩‍💻
+✨ I'll be moving on to C++, C# and Python 🐍 
+✨ Fun fact: I'm a cosplayer and bodypainter 🎨
 
 
 ## 🌐 Socials:
